@@ -1,0 +1,5 @@
+footer {width: calc(100vw*1200/1920); margin: 0 auto;}
+footer ul {display: flex; list-style: none; padding: 0; margin-top: calc(100vw*60/1920);}
+footer ul li {flex: 1;}
+footer ul li a {text-decoration: none; color: #000;}
+footer ul li.create {text-align: right; margin: 0;}

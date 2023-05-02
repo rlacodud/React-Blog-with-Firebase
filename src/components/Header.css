@@ -1,0 +1,2 @@
+.header {width: calc(100vw*1200/1920); margin: 0 auto; display: flex; list-style: none; padding: 0; padding-bottom: calc(100vw*40/1920); border-bottom: 1px solid #ddd;}
+.header li a {text-decoration: none; font-size: calc(100vw*60/1920); font-weight: bold; color: #000;}
